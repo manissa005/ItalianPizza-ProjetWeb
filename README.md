@@ -14,11 +14,6 @@
 
 - Prérequis à installer : Html, Css, Node (notamment ejs, express, pg), Postgre
 
-**Identifiants et membres du groupe**
-
-1. BOUDJABOUT Manissa [22018741]
-2. TANG Elody [21953199]
-
 ## Configuration de la base de donnees Postgre
 
 1. Première étape : installer les modules correspondants
